@@ -1,0 +1,87 @@
+{
+    "summary": "The Indian Army, through the Department of Military Affairs, is procuring advanced training solutions including Trainee Immersive Devices with embedded training software, operational scenario content development, installation and commissioning of a high-powered station, and an instructor station. The contract includes 3 years warranty and 4 years comprehensive AMC post-warranty, focusing on simulation-based training modules. Preferences for MII and MSE suppliers are included, with clearly defined eligibility, turnover and documentation requirements. Installation, commissioning, support, and strict documentation compliance are essential.",
+    "scope_of_work": "Supply, installation, commissioning, and training for 15 Trainee Immersive Devices with embedded software, development of operational scenario content and modules, installation and training of 1 high-powered station and software, and 1 high-powered instructor station with accessories. Scope includes 3-year warranty and 4-year AMC (Annual Maintenance Contract), with both online and onsite support, content development, hardware/software troubleshooting and replacement of defective parts within 72 hours.",
+    "project_type": "Technology supply and service contract with installation and training components",
+    "complexity": "Medium to High; owing to integration of hardware, embedded software, content development, installation at location, training, and sustained maintenance",
+    "risk_level": "Medium",
+    "industry_domain": "Defence training, simulation and augmented/virtual reality",
+    "required_technologies": [
+        "Augmented Reality",
+        "Virtual Reality",
+        "Embedded Training Software",
+        "Simulation Systems"
+    ],
+    "programming_languages": [],
+    "frameworks": [],
+    "databases": [],
+    "cloud_platforms": [],
+    "operating_systems": [],
+    "hardware_requirements": [
+        "Trainee Immersive Devices",
+        "High Powered Station with Accessories",
+        "Instructor Station with Accessories"
+    ],
+    "networking_requirements": [],
+    "cyber_security_requirements": [],
+    "ai_ml_requirements": [],
+    "deliverables": [
+        "15 Trainee Immersive Devices with embedded training software",
+        "Operational scenario content and additional training modules",
+        "Installation, commissioning, and training of 1 high-powered station with software and accessories",
+        "1 High powered instructor station with software and accessories",
+        "Comprehensive training for operators and instructors",
+        "Warranty documentation",
+        "AMC service support documentation and escalation matrix",
+        "OEM Authorization Certificate",
+        "Compliance and supporting documentation as per BoQ"
+    ],
+    "mandatory_documents": [
+        "Experience Criteria documentation",
+        "Past Performance documentation",
+        "Bidder and OEM Turnover documents",
+        "OEM Authorization Certificate",
+        "Compliance documents as per BoQ",
+        "Bidder Undertaking for financial standing",
+        "Certificate of local content (for MII preference)",
+        "Non-disclosure declaration certificate"
+    ],
+    "required_certifications": [
+        "OEM Authorization Certificate",
+        "Local content certification for MII compliance (with statutory/cost auditor attestation if value > Rs. 10 Crore)"
+    ],
+    "eligibility_summary": "Open to Class 1 and Class 2 local suppliers with minimum 50% and 20% local content respectively; MSEs and Startups are eligible for relaxations in experience and turnover criteria; OEMs and bidders must meet average annual turnover thresholds unless relaxed as specified. The bidder should not be under liquidation or bankruptcy proceedings.",
+    "experience_summary": "Minimum 3 years of experience supplying similar services/products required (relaxation for MSE/Startup as per relevant policy). Must have supplied at least 10% of bid quantity in any one of the last three financial years to Central/State Govt or PSU. Supported by contract copies.",
+    "turnover_summary": "Bidder: Minimum average annual turnover of INR 11 lakh over last 3 years; OEM: Minimum average annual turnover of INR 70 lakh over last 3 years. Relaxations for MSE/Startup categories upon valid supporting documents.",
+    "payment_terms": "Not explicitly specified in the available tender text.",
+    "delivery_location": "Jalpaiguri (exact office details masked)",
+    "implementation_duration": "60 days from order for delivery of each item and related services",
+    "warranty": "3 years comprehensive warranty from final acceptance/installation; warranty certificates to be submitted upon delivery.",
+    "maintenance_support": "4 years comprehensive Annual Maintenance Contract (AMC) post warranty, including online and onsite support, defect rectification within 72 hours, and parts replacement free of cost.",
+    "important_conditions": [
+        "Option clause allows up to 50% increase or decrease in quantity at buyer's discretion.",
+        "Installation and commissioning must be by OEM/authorized personnel.",
+        "Supplied products must not be obsolete and should have minimum 7 years of residual market/shelf life.",
+        "No return of faulty storage media as per security protocol.",
+        "Escalation matrix for service support to be provided.",
+        "Comprehensive AMC to be quoted as % of product cost; payment on quarterly basis post-warranty.",
+        "Performance Bank Guarantee (PBG) of 3% of total contract value including AMC, valid through AMC period plus one year.",
+        "Compliance with all applicable Indian labour laws and codes required.",
+        "Only local suppliers (Class 1/Class 2 as per MII order) are eligible, except where specified for MSE.",
+        "Financial standing and bankruptcy declaration to be uploaded.",
+        "Non-disclosure agreement, and compliance with GeM and Defence procurement norms mandatory."
+    ],
+    "buyer_expectations": "Timely delivery and installation, robust technical and training support, high reliability hardware/software, prompt aftersales service, compliance to Indian defence and procurement regulations, proper documentation, proactive engagement in issue resolution, and adherence to AMC and warranty obligations.",
+    "keywords": [
+        "defence training simulators",
+        "immersive training device",
+        "VR AR military",
+        "operational scenario content",
+        "AMC support",
+        "Indian Army simulation",
+        "training hardware supply",
+        "augmented reality",
+        "virtual reality",
+        "warranty service",
+        "high powered instructor station"
+    ]
+}

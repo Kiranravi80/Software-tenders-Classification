@@ -1,0 +1,26 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Generated data
+output/raw_tenders.json
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
